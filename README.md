@@ -5,7 +5,7 @@
 This repo contains all of the projects I submitted as part of my C Programming
 course at Santa Monica College in the Spring 2018 semester.
 
-<h2>Testing<h2>
+<h2>Testing</h2>
 
 You can run the scripts yourself by cloning the repo to your local machine. In order to clone, type the following into your terminal:
 
@@ -24,6 +24,8 @@ Run the object code within your terminal by executing the following command:
 ```
 ./Printing
 ```
+
+<h2>Project Descriptions</h2>
 
 <h3>Project 3</h3>
 
