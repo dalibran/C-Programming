@@ -35,14 +35,14 @@ various actions upon the array. These functions allow me to print the array,
 find the maximum and minimum values, calculate the average of all values,
 perform a bubble sort, and find the median.
 
-<img src="https://www.dropbox.com/s/20s7vcl4kbmw84s/Screenshot%202018-04-11%2013.41.17.png?raw=1" alt="Project3" width="120px" height="240px">
+<img src="https://www.dropbox.com/s/20s7vcl4kbmw84s/Screenshot%202018-04-11%2013.41.17.png?raw=1" alt="Project3" width="300px" height="600px">
 
 <h3>Project 2</h3>
 
 This project focused on looping. Specifically, I was asked to print a diamond
 composed of my initials, where the number of the diamond's lines was determined randomly. I achieved this using several nested for-loops.
 
-<img src="https://www.dropbox.com/s/pwnqcuqljcyubb0/Screenshot%202018-04-11%2013.40.57.png?raw=1" alt="Project2" width="120px" height="240px">
+<img src="https://www.dropbox.com/s/pwnqcuqljcyubb0/Screenshot%202018-04-11%2013.40.57.png?raw=1" alt="Project2" width="300px" height="600px">
 
 <h3>Project 1</h3>
 
