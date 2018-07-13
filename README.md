@@ -43,7 +43,7 @@ After generating an array and filling it with random integers, I wrote a quickso
 
 The goal of this project was to develop a software version of Craps, the popular casino game. After randomly generating a dice roll, I used a switch statement, coupled with recursion, to account for the various outcomes of a dice roll and continue rolling if necessary.
 
-<img src="https://www.dropbox.com/s/u2bx5ejyl0fyalx/Screenshot%202018-07-13%2015.54.23.png?raw=1" alt="Project4" width="260px" height="420px">
+<img src="https://www.dropbox.com/s/u2bx5ejyl0fyalx/Screenshot%202018-07-13%2015.54.23.png?raw=1" alt="Project4" width="400px" height="260px">
 
 <h3>Project 3</h3>
 
